@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(202, 202, 83);
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+#container{
+    width: min(50%,350px);
+   background-color: white;
+   padding: 10px;
+   border: .4rem solid black;
+
+}
+#down{
+    text-align: center;
+}
