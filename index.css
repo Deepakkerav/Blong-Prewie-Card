@@ -30,13 +30,13 @@ body{
     padding: 1.5rem;
     box-shadow: 8px 8px var(--color-4);
     /* transition: box-shadow 0.2s ease, transform 0.2s ease; */
-    width:24rem;
+    width:min(50%,370px);
 }
 div > p{
   margin-top:1rem;
 }
 div > p:first-of-type{
-  padding: 4px;
+  padding:0.4rem;
   width:fit-content;
   background-color: var(--color1);
 }
